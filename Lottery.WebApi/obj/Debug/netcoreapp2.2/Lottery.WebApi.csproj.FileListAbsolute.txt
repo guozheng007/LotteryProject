@@ -1,0 +1,17 @@
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.WebApi.deps.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.WebApi.runtimeconfig.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.WebApi.runtimeconfig.dev.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.WebApi.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.WebApi.pdb
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.Infrastructure.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\bin\Debug\netcoreapp2.2\Lottery.Infrastructure.pdb
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.csprojAssemblyReference.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.RazorAssemblyInfo.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.RazorAssemblyInfo.cs
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.AssemblyInfoInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.AssemblyInfo.cs
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.csproj.CopyComplete
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.WebApi\obj\Debug\netcoreapp2.2\Lottery.WebApi.pdb

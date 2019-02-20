@@ -1,0 +1,9 @@
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\bin\Debug\netstandard2.0\Lottery.Infrastructure.deps.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\bin\Debug\netstandard2.0\Lottery.Infrastructure.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.AssemblyInfo.cs
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\bin\Debug\netstandard2.0\Lottery.Infrastructure.pdb
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.pdb
+C:\Users\gz\Documents\Visual Studio 2017\Projects\Lottery.Infrastructure\Lottery.Infrastructure\obj\Debug\netstandard2.0\Lottery.Infrastructure.csprojAssemblyReference.cache
